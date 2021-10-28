@@ -9,7 +9,18 @@ Welcome to Hello World! What you will find here is an open source project for gr
 
 3. Rules for testing
 
-4. Guide on submitting changes <br>
+[4. Guide on submitting changes](#importantLinks)
+
+[5.  Bug reports](#reportingBugs)
+
+6. Style guide/ Code of Conduct.
+
+7. Thank you message
+
+[8. List of contributors(us).](#contributors)
+
+# <a name="submittingChanges">Important Links:</a><br>
+
 In order to prevent overwriting other members changes and keep everyone aware of changes that are being made, please follow these guidelines. <br>
   
   When committing changes be sure to select "Create a new branch for this commit and start a pull request." <br>
@@ -20,14 +31,6 @@ In order to prevent overwriting other members changes and keep everyone aware of
   
   Once reviewers have checked the code and approved the pull request, it can be closed. <br>
   <img src="https://i.imgur.com/sPqOGA5.png"><br>
-
-[5.  Bug reports](#reportingBugs)
-
-6. Style guide/ Code of Conduct.
-
-7. Thank you message
-
-[8. List of contributors(us).](#contributors)
 
 # <a name="importantLinks">Important Links:</a><br>
 Project Pages: https://lordforrester.github.io/hello-world/
