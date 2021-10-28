@@ -5,7 +5,7 @@ Welcome to Hello World! What you will find here is an open source project for gr
 
 [1. Welcome Message](#welcome)
 
-2. Important links
+[2. Important links](#importantLinks)
 
 3. Rules for testing
 
