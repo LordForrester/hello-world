@@ -5,11 +5,11 @@ Welcome to Hello World! What you will find here is an open source project for gr
 
 [1. Welcome Message](#welcome)
 
-[2. Important links](#importantLinks)
+2. Important links
 
 3. Rules for testing
 
-[4. Guide on submitting changes](#importantLinks)
+[4. Guide on submitting changes](#submittingChanges)
 
 [5.  Bug reports](#reportingBugs)
 
