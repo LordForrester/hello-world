@@ -19,7 +19,11 @@ Welcome to Hello World! What you will find here is an open source project for gr
 
 [8. List of contributors(us).](#contributors)
 
-# <a name="submittingChanges">Important Links:</a><br>
+
+# <a name="importantLinks">Important Links:</a><br>
+Project Pages: https://lordforrester.github.io/hello-world/
+
+# <a name="submittingChanges">Submitting Changes:</a><br>
 
 In order to prevent overwriting other members changes and keep everyone aware of changes that are being made, please follow these guidelines. <br>
   
@@ -31,9 +35,6 @@ In order to prevent overwriting other members changes and keep everyone aware of
   
   Once reviewers have checked the code and approved the pull request, it can be closed. <br>
   <img src="https://i.imgur.com/sPqOGA5.png"><br>
-
-# <a name="importantLinks">Important Links:</a><br>
-Project Pages: https://lordforrester.github.io/hello-world/
 
 # <a name="reportingBugs">Reporting Bugs:</a> <br>
 Bugs should be reported under the issues tab on the main repository and the contributos should be notified an issue has been reported via the group discord.
